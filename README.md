@@ -95,6 +95,8 @@ SDD: 360 GB
 
 🎉 Теперь ваш Fujitsu Esprimo C710 работает на macOS Catalina! 🎉
 
+OLD REPO: https://github.com/LogikaLeaks/Fujitsu-Esprimo-C710-Hackintosh
+
 
 ---
 
